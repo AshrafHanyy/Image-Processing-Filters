@@ -59,6 +59,7 @@ The repository includes datasets relevant to image processing tasks. These datas
 TBA
 
 ## Contributing
-`John Doe`
-`Jane Smith`
-`Alex Johnson`
+`Ashraf Hany`
+`Haidy Maher`
+`Shahd Tarek`
+`Marina Aniss`
