@@ -48,6 +48,19 @@ Image processing is a vital field with applications in various domains such as m
   <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" width = '' >
       </a></td> -->
   </tr>
+
+  <tr>
+    <td class="tg-yw4l">3.</td>
+    <td class="tg-yw4l">Impulsive Noise</td>
+    <td class="tg-yw4l">Notebook containing code for applying noise filter to images</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1x7Phy98uSvj5UgEaRb6uCD2gH9WTs29e#scrollTo=WOQGdCzIK0Hh">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+<!--     <td class="tg-yw4l"><a href="https://github.com/ImageProcessingFilters/BlurFilter">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" width = '' >
+      </a></td> -->
+  </tr>
+  
 </table>                                           |
 
 ## Datasets
