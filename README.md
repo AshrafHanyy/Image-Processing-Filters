@@ -35,7 +35,7 @@ Image processing is a vital field with applications in various domains such as m
 </a></td>
 
 <tr>
-    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">2.</td>
     <td class="tg-yw4l">Gaussian smoothing filter</td>
     <td class="tg-yw4l">Notebook containg code for Averaging filter</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1x7Phy98uSvj5UgEaRb6uCD2gH9WTs29e#scrollTo=wcilq0hbIxAY">
@@ -47,7 +47,7 @@ Image processing is a vital field with applications in various domains such as m
       </a></td> -->
   </tr>
   <tr>
-    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">3.</td>
     <td class="tg-yw4l">Sobel Operators</td>
     <td class="tg-yw4l">Notebook containg code for sharpening filter</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1x7Phy98uSvj5UgEaRb6uCD2gH9WTs29e#scrollTo=wcilq0hbIxAY">
@@ -56,7 +56,7 @@ Image processing is a vital field with applications in various domains such as m
 
   
   <tr>
-    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">4.</td>
     <td class="tg-yw4l">Uniform Noise</td>
     <td class="tg-yw4l">Notebook containing code for applying noise filter to images</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1aLLf_hqWHNJr3WKBjp8bknzjsjkO_-dV?usp=sharing">
@@ -68,7 +68,7 @@ Image processing is a vital field with applications in various domains such as m
   </tr>
 
   <tr>
-    <td class="tg-yw4l">3.</td>
+    <td class="tg-yw4l">5.</td>
     <td class="tg-yw4l">Impulsive Noise</td>
     <td class="tg-yw4l">Notebook containing code for applying noise filter to images</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1x7Phy98uSvj5UgEaRb6uCD2gH9WTs29e#scrollTo=WOQGdCzIK0Hh">
