@@ -29,7 +29,7 @@ Image processing is a vital field with applications in various domains such as m
   <tr>
     <td class="tg-yw4l">1.</td>
     <td class="tg-yw4l">Averaging filter</td>
-    <td class="tg-yw4l">Notebook containg code for Averaging filter</td>
+    <td class="tg-yw4l">Notebook containg code for smoothing filter</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1aLLf_hqWHNJr3WKBjp8bknzjsjkO_-dV?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
