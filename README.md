@@ -80,11 +80,22 @@ Image processing is a vital field with applications in various domains such as m
   <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" width = '' >
       </a></td> -->
   </tr>
-  tr>
+  <tr>
     <td class="tg-yw4l">6.</td>
     <td class="tg-yw4l">Adaptive filter(median,min,max)</td>
     <td class="tg-yw4l">Notebook containing code for applying Adaptive filter(median,min, max) to images</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1sReoJYZtFUt78YYdDuASl1ttrqXbW3kP?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+<!--     <td class="tg-yw4l"><a href="https://github.com/ImageProcessingFilters/BlurFilter">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" width = '' >
+      </a></td> -->
+  </tr>
+  <tr>
+    <td class="tg-yw4l">7.</td>
+    <td class="tg-yw4l">Laplacian operator</td>
+    <td class="tg-yw4l">Notebook containing code for applying Laplacian operator to images</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1zSBnt3lHF-s7O4w1cvtsM_O2oRLS-1OL?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
 <!--     <td class="tg-yw4l"><a href="https://github.com/ImageProcessingFilters/BlurFilter">
