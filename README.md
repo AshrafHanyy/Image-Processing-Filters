@@ -103,7 +103,7 @@ Image processing is a vital field with applications in various domains such as m
       </a></td> -->
   </tr>
   <tr>
-    <td class="tg-yw4l">7.</td>
+    <td class="tg-yw4l">8.</td>
     <td class="tg-yw4l">Histogram Equalization</td>
     <td class="tg-yw4l">Notebook containing code for applying Histogram Equalization to images</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1608PDxTu_eU0unKVQUcSXUqyyFfkdrML?usp=sharing">
