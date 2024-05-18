@@ -150,7 +150,7 @@ Image processing is a vital field with applications in various domains such as m
     <td class="tg-yw4l">12.</td>
     <td class="tg-yw4l"> Unsharp Masking and Highboost Filtering</td>
     <td class="tg-yw4l">Notebook containing code for applying Unsharp Masking and Highboost Filtering to images</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1p1E84PVyjGRcvRGNKT7AIBHKSEq9YzFD?usp=sharing">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1GaMHDoCw2UOBc-4sGzLQPfdGs_9KRtP9?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
 <!--     <td class="tg-yw4l"><a href="https://github.com/ImageProcessingFilters/BlurFilter">
