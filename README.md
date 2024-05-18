@@ -157,6 +157,17 @@ Image processing is a vital field with applications in various domains such as m
   <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" width = '' >
       </a></td> -->
   </tr>
+   <tr>
+    <td class="tg-yw4l">13.</td>
+    <td class="tg-yw4l"> histogram_specilization</td>
+    <td class="tg-yw4l">Notebook containing code for applying histogram_specilization to images</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/18TJ2c64T5gIwB_8z1TtcAHLgVTxj7xRO?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+<!--     <td class="tg-yw4l"><a href="https://github.com/ImageProcessingFilters/BlurFilter">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" width = '' >
+      </a></td> -->
+  </tr>
 </table>                                           
 
 ## Datasets
